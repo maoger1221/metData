@@ -1,0 +1,5 @@
+https://wenku.baidu.com/view/e8622c268e9951e79b892764.html
+
+https://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.html
+
+ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis/
